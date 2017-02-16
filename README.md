@@ -6,4 +6,4 @@ This is is a visual generative typography Processing program created using steer
 ![evolve3](https://github.com/snosenzo/Organic-Typography/blob/master/images/evolve3.png "evolve3")
 ![evolve4](https://github.com/snosenzo/Organic-Typography/blob/master/images/evolve4.png "evolve4")
 ![evolve5](https://github.com/snosenzo/Organic-Typography/blob/master/images/evolve5.png "evolve5")
-![evolve6](https://github.com/snosenzo/Organic-Typography/blob/master/images/evolve6.png "evolve6")
+
